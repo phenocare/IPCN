@@ -2,7 +2,7 @@
 layout: home
 title: International Phenome Center Network - IPCN
 description: A networks of networks to deliver precision and systems medicine
-background: /assets/img/_K2A5183.JPG
+background: /assets/img/K2A5183.JPG
 permalink: /
 ---
 
