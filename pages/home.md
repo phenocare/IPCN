@@ -1,13 +1,13 @@
 ---
 layout: home
-title: International Phenome Center Network
-description: A Networks of networks to deliver precision and systems medicine
+title: International Phenome Center Network - IPCN
+description: A networks of networks to deliver precision and systems medicine
 background: /assets/img/_K2A5183.JPG
 permalink: /
 ---
 
 {: .alert .alert-info}
-This is a demo website for [Petridish](https://github.com/peterdesmet/petridish): a Jekyll theme for research project websites.
+This is a website under construction.
 
 Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
 
