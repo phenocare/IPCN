@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Our research project
-description: Towards developing a theme for research project websites
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+title: International Phenome Center Network
+description: A Networks of networks to deliver precision and systems medicine
+background: /assets/img/_K2A5183.JPG
 permalink: /
 ---
 
