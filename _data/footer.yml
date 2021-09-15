@@ -5,15 +5,15 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Bruker 
+      href: http://bruker.com
       new_window: true
-    - text: Name of project partner 2
-      href: http://example.com
-      new_window: true
+#    - text: Sciex
+#      href: http://sciex.com
+#      new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source. See [`_data/footer.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/footer.yml) to customize this text.
+      This website is maintained by the [Australian National Phenome Center](https://australian-npc.org) on behalf of all IPCN members.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
