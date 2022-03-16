@@ -2,11 +2,12 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
-  href: /about/
+# - text: About
+#   href: /about/
 - text: Team
   href: /team/
-# - text: Output
+- text: Outcomes
+  href: /outcomes/
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Page 1
 #     href: /there-is-no-page-for-this-permalink/
