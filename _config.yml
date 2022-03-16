@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: IPCN                        # Title in top navigation bar (navbar) and <head>
-description: International Phenome Center Network # Site description in <head>
+title: An IPCN task group                        # Title in top navigation bar (navbar) and <head>
+description: NMR* International COVID-19 Research Network # Site description in <head>
 author: jwist@ANPC                    # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename

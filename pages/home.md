@@ -1,7 +1,7 @@
 ---
 layout: home
-title: International Phenome Center Network - IPCN
-description: A networks of networks to deliver precision and systems medicine
+title: The NMR* International COVID-19 Research Network at Work
+description: A network to beat COVID-19
 background: /assets/img/K2A5183.JPG
 permalink: /
 ---
@@ -9,8 +9,11 @@ permalink: /
 {: .alert .alert-info}
 This is a website under construction.
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+The ongoing COVID-19 pandemics calls for a broad and coordinated response from the scientific community, to produce vaccine to protect us, but also to improve screening and early detection, follow and predict severity, and monitor recovery and long term effects.   
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+A worldwide international COVID Research Network consisting of several institutions has been setup in April 2020. It was initiated by Bruker and is chaired by Prof. Jeremy Nicholson who run the Australian National Phenome Center (ANPC).
+
+This network aims at harnessing the power of standardized analytical procedures to build a fully exchangeable and integratable data bank across its collaborators.
+
 
 
