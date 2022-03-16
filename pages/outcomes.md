@@ -2,7 +2,7 @@
 title: The network at work
 description: Outcomes
 background: assets/img/K2A5183.JPG
-permalink: /about/
+permalink: /outcomes/
 ---
 
 Gray, N., Lawler, N. G., Zeng, A. X., Ryan, M., Bong, S. H., Boughton, B. A., Bizkarguenaga, M., Bruzzone, C., Embade, N., Wist, J., Holmes, E., Millet, O., Nicholson, J. K., & Whiley, L. (2021). Diagnostic Potential of the Plasma Lipidome in Infectious Disease: Application to Acute SARS-CoV-2 Infection. Metabolites, 11(7), 467.
