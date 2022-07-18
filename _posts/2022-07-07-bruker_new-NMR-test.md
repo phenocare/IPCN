@@ -3,7 +3,7 @@ title: Bruker rolls out new NMR test to support research on Long Covid
 description: Bruker Corporation has rolled out its new research-use-only NMR test intended for molecular phenomics research on Long Covid
 background: assets/img/bug.png
 author: [Julien]
-categories: [Data, Covid-19]
+categories: [NMR, Covid-19, Bruker]
 ---
 
 Bruker Corporation has rolled out its new research-use-only NMR test, PhenoRisk PACS RuO, intended for molecular phenomics research on blood samples of Long Covid patients.
