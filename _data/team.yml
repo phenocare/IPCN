@@ -20,9 +20,88 @@
   role: NMR Coordinator
   image: assets/img/bug.png # Can be external link
   description: > # Can be Markdown
-    NMR Coordinator of the Australian National Phenome Centre, supervising 11 NMR systems ranging from 80 to 800 MHz. 
+    Philipp Nitschke is the NMR Coordinator of the Australian National Phenome Centre (ANPC) supervising 11 NMR systems ranging from 80 to 800 MHz. 
     His main interest is NMR method development for the analysis of biofluids.
   orcid: 0000-0002-5814-7529
   email: philipp.nitschke@murdoch.edu.au
+  # github: github_name
+  # twitter: twitter_name
+
+- name: Tobias Madl
+  role: NMR Coordinator
+  image: assets/img/bug.png # Can be external link
+  description: > # Can be Markdown
+    Prof. Dr. Tobias Madl is trained chemist and physicist and has more than a decade long expertise in integrative structural biology and NMR-based metabolomics. 
+    T. Madl is the head of the Integrative Metabolism Research Center and the NextGenBio Xray Platform at the Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging, Medical University of Graz. 
+    After obtaining his PhD in 2007 from the University of Graz, Austria, he completed a post-doctoral research stay at the Technical University of Munich and the Utrecht University. 
+    His PhD and post-doc. research have been supported and recognized by the DOC fellowship of the Austrian Academy of Sciences, the PhD and Science Prizes of the Austrian Chemical Society, the Schrödinger Fellowship of the Austrian Science Fund, the EMBO Long Term Fellowship.
+    In 2012, he started his independent research groups at the Technical University and Helmholtz Center in Munich (tenure track), Germany, supported by the BioSysNet program of the Bavarian Ministry and the Emmy Noether program of the German Research Foundation. 
+    In 2015 he became Associate Professor at the Medical University of Graz. 
+    In the same year he was appointed Visiting Professor at the Fujian Institute of Research on the Structure of Matter (FJIRSM), Chinese Academy of Sciences, Xiamen, China. 
+    Upon his return to Graz he established the Integrative Metabolism Research Center and the NextGenBio X-ray Platform at Medical University of Graz. 
+    In 2021, T. Madl was appointed Full Professor in Integrative Structural Biology and Metabolomics at Medical University of Graz. 
+    At the Integrative Metabolism Research Center, Dr. Madl and his team have established untargeted NMR-based metabolomics for a plethora of biological systems ranging from cell-based assays to in vivo model systems and patients. 
+    This allows him to bridge the gap between molecular details of metabolic pathways and patient and vice versa and to obtain new insights into disease mechanisms and diagnosis.
+  orcid: 0000-0002-9725-5231
+  email: tobias.madl@medunigraz.at
+  # github: github_name
+  # twitter: twitter_name
+
+- name: Leonardo Tenori
+  role: NMR Coordinator
+  image: assets/img/bug.png # Can be external link
+  description: > # Can be Markdown
+    Leonardo Tenori, born in 1977, obtained his master’s degree in chemistry in 2002 at the University of Florence, and the International PhD in Structural Biology in 2008 at the University of Florence. 
+    He has been Researcher at the Interuniversity Consortium for Magnetic Resonance of Metallo Proteins (CIRMMP, University of Florence, Italy), and he joined the faculty at the Department of Chemistry of the University of Florence as tenure-track researcher in September 2020. 
+    After the PhD, his primary interest turned to the applications of metabolomics via magnetic resonance spectroscopy (NMR) for the study of complex biological mixtures, both in the biomedicine field (analysis of human biofluids), and in the agri-food area (analysis of food matrices such as oil, wine, milk, coffee). 
+    He performs his research in the framework of the CERM/CIRMMP infrastructure, one of the largest and best equipped NMR facilities in world. 
+    Dr. Tenori's research interest is focused on the use of NMR spectroscopy to identify metabolites that vary in response to physio-pathological states. 
+    This mainly translates into identifying biomarkers (or panels of markers, or metabolic fingerprints) that can be used for diagnosis, prognosis, patient stratification, response to treatments, or to investigate the molecular mechanisms underlying the onset of diseases. 
+    In 2015 he was awarded with a Fellowship of the Italian Foundation “Veronesi” for the study of the metabolomic alterations in melanoma patients. He has collaboration with researchers and clinicians at local, national and international level.
+  orcid: 0000-0001-6438-059X
+  email: tenori@cerm.unifi.it
+  # github: github_name
+  # twitter: twitter_name
+
+- name: Caludio Luchinat
+  role: NMR Coordinator
+  image: assets/img/bug.png # Can be external link
+  description: > # Can be Markdown
+    Full Professor of Chemistry at the University of Florence, co-founder and former Director of the Center of Magnetic Resonance (CERM), co-founder and present Director and President of the Interuniversity Consortium on Magnetic Resonance of Metallo Proteins (CIRMMP).
+    His research interests include bioinorganic chemistry, structural biology, development of NMR-based structural methodologies in solution and in the solid state, metalloproteins and metalloenzymes, spectroscopy, theory of electron and nuclear relaxation, NMR of paramagnetic species, relaxometry, contrast agents and NMR-based analytical methods in general. 
+    Particularly worth mentioning are his recent studies on the integration of structural techniques, where he has shown that simultaneous refinement of X-ray and NMR data can lead to i) a significant increase of accuracy of the resulting structural data and ii) a robust strategy to assess if structural differences exist for a biomolecule between solution and crystalline state. 
+    He has also significantly contributed to the theoretical understanding of the phenomenon of Dynamic Nuclear Polarization (DNP), both in solids and in liquids. 
+    DNP is a promising strategy to enhance the sensitivity of the NMR experiment, possibly transforming NMR into a completely new technique for the investigation of biological systems in ways that would have been unconceivable only a few years ago.
+    Starting from 2008, his research has been also directed towards metabolomics, aiming at obtaining the metabolic profiles of biological fluids such as urines and blood using NMR spectroscopy; defining procedures for sample preparation and for the acquisition of NMR spectra; developing statistical methods for the analysis of the data; and correlating the metabolic profiles with pathophysiological characteristics of the subjects studied. 
+    The results of this research, published in international journals, have been cited several times not only in specialized literature but also in other sectors, in books, websites and also in non-specialist press. 
+    Claudio Luchinat has become one of the international reference points for metabolomics, and is invited to give plenary lectures on the topic at conferences both specialized and in other sectors. 
+    He is invited as a keynote speaker from research laboratories in various countries around the world, and invited to inaugurate new research centers and research infrastructures.
+  orcid: 0000-0003-2271-8921
+  email: luchinat@cerm.unifi.it
+  # github: github_name
+  # twitter: twitter_name
+
+- name: Dr. Christoph Trautwein
+  role: NMR Coordinator
+  image: assets/img/bug.png # Can be external link
+  description: > # Can be Markdown
+    University Hospital Tübingen, Laboratory for Metabolomics & Systems Medicine, Germany
+  orcid: 0000-0003-4672-6395
+  email: christoph.trautwein@med.uni-tuebingen.de
+  # github: github_name
+  # twitter: twitter_name
+
+- name: Paulo Turano
+  role: NMR Coordinator
+  image: assets/img/bug.png # Can be external link
+  description: > # Can be Markdown
+    Paola Turano is full professor of General and Inorganic Chemistry at the University of Florence. 
+    Her research activity is mainly dedicated to NMR in Life Sciences. 
+    She has a long term experience in the development and application of NMR methods to inorganic systems of biological relevance, with a special focus on heme proteins and ferritins. 
+    Since 2008, P.T. expanded her research interest to include NMR-based metabolomics. 
+    In this field, she brought an original contribution in the pre-analytics sector (developed through the FP7 SPIDIA and H2020 SPIDIA4P projects), which led to her involvement in CEN and ISO technical committees for the development of pre-analytical standards for metabolomics. 
+    Since 2020 active research is also ongoing on the profiling of metabolites and liproproteins in serum or plasma specimens from COVID-19 subjects, an activity supported by a dedicated funding by Regione Toscana (COMETA project).
+  orcid: 0000-0002-7683-8614
+  email: turano@cerm.unifi.it
   # github: github_name
   # twitter: twitter_name
