@@ -2,7 +2,7 @@
 layout: archive
 title: News
 description: News & blog posts
-background: assets/img/IPCN_2.png
+background: assets/img/IPCN_.png
 permalink: /blog/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bruker's Molecular Phenomics Research Tools Enable New Insights into Long COVID and its Post-Infection Disease Effects
-description: Clinical research collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University develops platform for monitoring and personalizing the management of Post-Acute COVID-19 Syndrome (PACS), colloquially known as long COVID.
+description: Clinical research collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University develops platform for monitoring and personalizing the management of Post-Acute COVID-19 Syndrome (PACS), colloquially known as long COVID
 background: assets/img/bug.png
 author: [Julien]
 categories: [Covid-19, Bruker, ANPC]
