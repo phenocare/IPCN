@@ -93,7 +93,7 @@
 
 - name: Philipp Nitschke
   role: Member
-  image: assets/img/PhilippNitschke.png # Can be external link
+  image: assets/img/PhilippNitschke.jpg # Can be external link
   description: > # Can be Markdown
     Philipp Nitschke is the NMR Coordinator of the Australian National Phenome Centre (ANPC) supervising 11 NMR systems ranging from 80 to 800 MHz. 
     His main interest is NMR method development for the analysis of biofluids.
