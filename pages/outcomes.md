@@ -13,6 +13,8 @@ permalink: /outcomes/
 
 1. Bernacchioni, C., Squecco, R., Gamberi, T., Ghini, V., Schumacher, F., Mannelli, M., Garella, R., Idrizaj, E., Cencetti, F., Puliti, E., Bruni, P., Turano, P., Fiaschi, T., & Donati, C. (2022). S1P Signalling Axis Is Necessary for Adiponectin-Directed Regulation of Electrophysiological Properties and Oxidative Metabolism in C2C12 Myotubes. Cells, 11(4), 713. [https://doi.org/10.3390/cells11040713](https://doi.org/10.3390/cells11040713)
 
+   ![](assets/img/Phenomics.png)
+
 1. Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
 
 1. Castagneto-Gissey, L., Angelini, G., Mingrone, G., Cavarretta, E., Tenori, L., Licari, C., Luchinat, C., Tiepner, A. L., Basso, N., Bornstein, S. R., Bhatt, D. L., & Casella, G. (2022). The early reduction of left ventricular mass after sleeve gastrectomy depends on the fall of branched-chain amino acid circulating levels. EBioMedicine, 76, 103864. [https://doi.org/10.1016/j.ebiom.2022.103864](https://doi.org/10.1016/j.ebiom.2022.103864)
