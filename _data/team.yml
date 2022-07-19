@@ -17,9 +17,20 @@
   # github: github_name
   # twitter: twitter_name
 
+- name: Christoph Trautwein
+  role: Member
+  image: assets/img/ChristophTrautwein.png # Can be external link
+  description: > # Can be Markdown
+    University Hospital Tübingen, Laboratory for Metabolomics & Systems Medicine, Germany
+  researchgate: profile/Christoph-Trautwein
+  orcid: 0000-0003-4672-6395
+  email: christoph.trautwein@med.uni-tuebingen.de
+  # github: github_name
+  # twitter: twitter_name
+
 - name: Claudio Luchinat
   role: Member
-  image: assets/img/bug.png # Can be external link
+  image: assets/img/ClaudioLuchinat.png # Can be external link
   description: > # Can be Markdown
     Full Professor of Chemistry at the University of Florence, co-founder and former Director of the Center of Magnetic Resonance (CERM), co-founder and present Director and President of the Interuniversity Consortium on Magnetic Resonance of Metallo Proteins (CIRMMP).
     His research interests include bioinorganic chemistry, structural biology, development of NMR-based structural methodologies in solution and in the solid state, metalloproteins and metalloenzymes, spectroscopy, theory of electron and nuclear relaxation, NMR of paramagnetic species, relaxometry, contrast agents and NMR-based analytical methods in general. 
@@ -36,20 +47,21 @@
   # github: github_name
   # twitter: twitter_name
 
-- name: Dr. Christoph Trautwein
+- name: Julien Wist
   role: Member
-  image: assets/img/bug.png # Can be external link
+  image: assets/img/JulienWist.png
   description: > # Can be Markdown
-    University Hospital Tübingen, Laboratory for Metabolomics & Systems Medicine, Germany
-  researchgate: profile/Christoph-Trautwein
-  orcid: 0000-0003-4672-6395
-  email: christoph.trautwein@med.uni-tuebingen.de
+    Professor Wist is Professor of Computational Spectroscopy at the ANPC. 
+    In addition to the establishment of new mathematical and statistical paradigms, Professor Wist will lead the construction of organised data architectures for storage, retrieval, processing and visualization, and the implementation of novel pipelines unique to metabolic phenotyping.
+  researchgate: profile/Julien-Wist
+  orchid: 0000-0002-3416-2572
+  email: julien.wist@murdoch.edu.au
   # github: github_name
   # twitter: twitter_name
 
 - name: Leonardo Tenori
   role: Member
-  image: assets/img/bug.png # Can be external link
+  image: assets/img/LeonardoTenori.png # Can be external link
   description: > # Can be Markdown
     Leonardo Tenori, born in 1977, obtained his master’s degree in chemistry in 2002 at the University of Florence, and the International PhD in Structural Biology in 2008 at the University of Florence. 
     He has been Researcher at the Interuniversity Consortium for Magnetic Resonance of Metallo Proteins (CIRMMP, University of Florence, Italy), and he joined the faculty at the Department of Chemistry of the University of Florence as tenure-track researcher in September 2020. 
@@ -66,7 +78,7 @@
 
 - name: Paulo Turano
   role: Member
-  image: assets/img/bug.png # Can be external link
+  image: assets/img/PauloTurano.png # Can be external link
   description: > # Can be Markdown
     Paola Turano is full professor of General and Inorganic Chemistry at the University of Florence. 
     Her research activity is mainly dedicated to NMR in Life Sciences. 
@@ -81,7 +93,7 @@
 
 - name: Philipp Nitschke
   role: Member
-  image: assets/img/bug.png # Can be external link
+  image: assets/img/PhilippNitschke.png # Can be external link
   description: > # Can be Markdown
     Philipp Nitschke is the NMR Coordinator of the Australian National Phenome Centre (ANPC) supervising 11 NMR systems ranging from 80 to 800 MHz. 
     His main interest is NMR method development for the analysis of biofluids.
@@ -93,7 +105,7 @@
 
 - name: Tobias Madl
   role: Member
-  image: assets/img/bug.png # Can be external link
+  image: assets/img/TobiasMadl.png # Can be external link
   description: > # Can be Markdown
     Prof. Dr. Tobias Madl is trained chemist and physicist and has more than a decade long expertise in integrative structural biology and NMR-based metabolomics. 
     T. Madl is the head of the Integrative Metabolism Research Center and the NextGenBio Xray Platform at the Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging, Medical University of Graz. 
