@@ -51,7 +51,7 @@ Bruker is enabling scientists to make breakthrough discoveries and develop new a
 
 For more information, please visit: [https://www.bruker.com](https://www.bruker.com).
 
-<strong><br /><br />References<br />
+<strong><br />References<br />
 
 1. Kimhofer, T., Lodge, S., Whiley, L., Gray, N., Loo, R. L., Lawler, N. G., Nitschke, P., Bong, S. H., Morrison, D. L., Begum, S., Richards, T., Yeap, B. B., Smith, C., Smith, K., Holmes, E., & Nicholson, J. K. (2020). Integrative Modeling of Quantitative Plasma Lipoprotein, Metabolic, and Amino Acid Data Reveals a Multiorgan Pathological Signature of SARS-CoV-2 Infection. Journal of Proteome Research, 19(11), 4442–4454. [https://doi.org/10.1021/acs.jproteome.0c00519](https://doi.org/10.1021/acs.jproteome.0c00519)
 
