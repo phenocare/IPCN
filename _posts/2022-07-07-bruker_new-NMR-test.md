@@ -1,5 +1,5 @@
 ---
-title: Bruker rolls out new NMR test to support research on Long Covid
+title: Bruker Rolls Out New NMR Test to Support Research on Long Covid
 description: Bruker Corporation has rolled out its new research-use-only NMR test intended for molecular phenomics research on Long Covid.
 background: assets/img/allDIRE_peak.png
 author: [Julien]

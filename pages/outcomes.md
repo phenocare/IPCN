@@ -1,5 +1,5 @@
 ---
-title: The network at work
+title: The Network at Work
 description: Outcomes
 background: assets/img/K2A5183.JPG
 permalink: /outcomes/
