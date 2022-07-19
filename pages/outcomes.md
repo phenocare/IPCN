@@ -11,8 +11,6 @@ permalink: /outcomes/
 
 <h4><br />Publications</h4>
 
-# Year 2022
-
 1. Bernacchioni, C., Squecco, R., Gamberi, T., Ghini, V., Schumacher, F., Mannelli, M., Garella, R., Idrizaj, E., Cencetti, F., Puliti, E., Bruni, P., Turano, P., Fiaschi, T., & Donati, C. (2022). S1P Signalling Axis Is Necessary for Adiponectin-Directed Regulation of Electrophysiological Properties and Oxidative Metabolism in C2C12 Myotubes. Cells, 11(4), 713. [https://doi.org/10.3390/cells11040713](https://doi.org/10.3390/cells11040713)
 
 1. Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
@@ -40,8 +38,6 @@ permalink: /outcomes/
 1. Vignoli, A., Fornaro, A., Tenori, L., Castelli, G., Cecconi, E., Olivotto, I., Marchionni, N., Alterini, B., & Luchinat, C. (2022). Metabolomics Fingerprint Predicts Risk of Death in Dilated Cardiomyopathy and Heart Failure. Frontiers in cardiovascular medicine, 9, 851905. [https://doi.org/10.3389/fcvm.2022.851905](https://doi.org/10.3389/fcvm.2022.851905)
 
 1. Zizmare, L., Boyle, C. N., Buss, S., Louis, S., Kuebler, L., Mulay, K., Krüger, R., Steinhauer, L., Mack, I., Gomez, M. R., Herfert, K., Ritze, Y., & Trautwein, C. (2022). Roux-En-Y Gastric Bypass (RYGB) Surgery during High Liquid Sucrose Diet Leads to Gut Microbiota-Related Systematic Alterations. International Journal of Molecular Sciences, 23(3), 1126. [https://doi.org/10.3390/ijms23031126](https://doi.org/10.3390/ijms23031126)
-
-<Year 2021>
 
 1. Ashrafian, H., Sounderajah, V., Glen, R., Ebbels, T., Blaise, B. J., Kalra, D., Kultima, K., Spjuth, O., Tenori, L., Salek, R. M., Kale, N., Haug, K., Schober, D., Rocca-Serra, P., O'Donovan, C., Steinbeck, C., Cano, I., de Atauri, P., & Cascante, M. (2021). Metabolomics: The Stethoscope for the Twenty-First Century. Medical principles and practice : international journal of the Kuwait University, Health Science Centre, 30(4), 301–310. [https://doi.org/10.1159/000513545](https://doi.org/10.1159/000513545)
 
@@ -95,8 +91,6 @@ permalink: /outcomes/
 
 1. Zhou, Q., Kerbl-Knapp, J., Zhang, F., Korbelius, M., Kuentzel, K. B., Vujić, N., Akhmetshina, A., Hörl, G., Paar, M., Steyrer, E., Kratky, D., & Madl, T. (2021). Metabolomic Profiles of Mouse Tissues Reveal an Interplay between Aging and Energy Metabolism. Metabolites, 12(1), 17. [https://doi.org/10.3390/metabo12010017](https://doi.org/10.3390/metabo12010017)
 
-# Year 2020
-
 1. Antonaros, F., Ghini, V., Pulina, F., Ramacieri, G., Cicchini, E., Mannini, E., Martelli, A., Feliciello, A., Lanfranchi, S., Onnivello, S., Vianello, R., Locatelli, C., Cocchi, G., Pelleri, M. C., Vitale, L., Strippoli, P., Luchinat, C., Turano, P., Piovesan, A., & Caracausi, M. (2020). Plasma metabolome and cognitive skills in Down syndrome. Scientific reports, 10(1), 10491. [https://doi.org/10.1038/s41598-020-67195-z](https://doi.org/10.1038/s41598-020-67195-z)
 
 1. Basoglu, A., Baspinar, N., Tenori, L., Licari, C., & Gulersoy, E. (2020). Nuclear magnetic resonance (NMR)-based metabolome profile evaluation in dairy cows with and without displaced abomasum. The veterinary quarterly, 40(1), 1–15. [https://doi.org/10.1080/01652176.2019.1707907](https://doi.org/10.1080/01652176.2019.1707907)
@@ -125,8 +119,6 @@ permalink: /outcomes/
 
 1. Vignoli, A., Tenori, L., Giusti, B., Valente, S., Carrabba, N., Balzi, D., Barchielli, A., Marchionni, N., Gensini, G. F., Marcucci, R., Gori, A. M., Luchinat, C., & Saccenti, E. (2020). Differential Network Analysis Reveals Metabolic Determinants Associated with Mortality in Acute Myocardial Infarction Patients and Suggests Potential Mechanisms Underlying Different Clinical Scores Used To Predict Death. Journal of proteome research, 19(2), 949–961. [https://doi.org/10.1021/acs.jproteome.9b00779](https://doi.org/10.1021/acs.jproteome.9b00779)
 
-# Year 2019
-
 1. D'Alessandro, G., Quaglio, D., Monaco, L., Lauro, C., Ghirga, F., Ingallina, C., De Martino, M., Fucile, S., Porzia, A., Di Castro, M. A., Bellato, F., Mastrotto, F., Mori, M., Infante, P., Turano, P., Salmaso, S., Caliceti, P., Di Marcotullio, L., Botta, B., Ghini, V., & Limatola, C. (2019). 1H-NMR metabolomics reveals the Glabrescione B exacerbation of glycolytic metabolism beside the cell growth inhibitory effect in glioma. Cell communication and signaling : CCS, 17(1), 108. [https://doi.org/10.1186/s12964-019-0421-8](https://doi.org/10.1186/s12964-019-0421-8)
 
 1. Emwas, A. H., Roy, R., McKay, R. T., Tenori, L., Saccenti, E., Gowda, G., Raftery, D., Alahmari, F., Jaremko, L., Jaremko, M., & Wishart, D. S. (2019). NMR Spectroscopy for Metabolomics Research. Metabolites, 9(7), 123. [https://doi.org/10.3390/metabo9070123](https://doi.org/10.3390/metabo9070123)
@@ -151,8 +143,6 @@ permalink: /outcomes/
 
 1. Vignoli, A., Tenori, L., Giusti, B., Takis, P. G., Valente, S., Carrabba, N., Balzi, D., Barchielli, A., Marchionni, N., Gensini, G. F., Marcucci, R., Luchinat, C., & Gori, A. M. (2019). NMR-based metabolomics identifies patients at high risk of death within two years after acute myocardial infarction in the AMI-Florence II cohort. BMC medicine, 17(1), 3. [https://doi.org/10.1186/s12916-018-1240-2](https://doi.org/10.1186/s12916-018-1240-2)
 
-# Year 2018
-
 1. Caracausi, M., Ghini, V., Locatelli, C., Mericio, M., Piovesan, A., Antonaros, F., Pelleri, M. C., Vitale, L., Vacca, R. A., Bedetti, F., Mimmi, M. C., Luchinat, C., Turano, P., Strippoli, P., & Cocchi, G. (2018). Plasma and urinary metabolomic profiles of Down syndrome correlate with alteration of mitochondrial metabolism. Scientific reports, 8(1), 2977. [https://doi.org/10.1038/s41598-018-20834-y](https://doi.org/10.1038/s41598-018-20834-y)
 
 1. Checcucci, A., diCenzo, G. C., Ghini, V., Bazzicalupo, M., Becker, A., Decorosi, F., Döhlemann, J., Fagorzi, C., Finan, T. M., Fondi, M., Luchinat, C., Turano, P., Vignolini, T., Viti, C., & Mengoni, A. (2018). Creation and Characterization of a Genomically Hybrid Strain in the Nitrogen-Fixing Symbiotic Bacterium Sinorhizobium meliloti. ACS synthetic biology, 7(10), 2365–2378. [https://doi.org/10.1021/acssynbio.8b00158](https://doi.org/10.1021/acssynbio.8b00158)
@@ -172,8 +162,6 @@ permalink: /outcomes/
 1. Takis, P. G., Taddei, A., Pini, R., Grifoni, S., Tarantini, F., Bechi, P., & Luchinat, C. (2018). Fingerprinting Acute Digestive Diseases by Untargeted NMR Based Metabolomics. International journal of molecular sciences, 19(11), 3288. [https://doi.org/10.3390/ijms19113288](https://doi.org/10.3390/ijms19113288)
 
 1. Tenori, L., Santucci, C., Meoni, G., Morrocchi, V., Matteucci, G., & Luchinat, C. (2018). NMR metabolomic fingerprinting distinguishes milk from different farms. Food research international (Ottawa, Ont.), 113, 131–139. [https://doi.org/10.1016/j.foodres.2018.06.066](https://doi.org/10.1016/j.foodres.2018.06.066)
-
-# Year 2017
 
 1. Bernacchioni, C., Ghini, V., Cencetti, F., Japtok, L., Donati, C., Bruni, P., & Turano, P. (2017). NMR metabolomics highlights sphingosine kinase-1 as a new molecular switch in the orchestration of aberrant metabolic phenotype in cancer cells. Molecular oncology, 11(5), 517–533. [https://doi.org/10.1002/1878-0261.12048](https://doi.org/10.1002/1878-0261.12048)
 
@@ -195,8 +183,6 @@ permalink: /outcomes/
 
 1. Takis, P. G., Tenori, L., Ravera, E., & Luchinat, C. (2017). Gelified Biofluids for High-Resolution Magic Angle Spinning 1H NMR Analysis: The Case of Urine. Analytical chemistry, 89(2), 1054–1058. [https://doi.org/10.1021/acs.analchem.6b04318](https://doi.org/10.1021/acs.analchem.6b04318)
 
-# Year 2016
-
 1. Basoglu, A., Baspinar, N., Tenori, L., Vignoli, A., & Yildiz, R. (2016). Plasma metabolomics in calves with acute bronchopneumonia. Metabolomics, 12(128). [https://doi.org/10.1007/s11306-016-1074-x](https://doi.org/10.1007/s11306-016-1074-x)
 
 1. Emwas, A. H., Roy, R., McKay, R. T., Ryan, D., Brennan, L., Tenori, L., Luchinat, C., Gao, X., Zeri, A. C., Gowda, G. A., Raftery, D., Steinbeck, C., Salek, R. M., & Wishart, D. S. (2016). Recommendations and Standardization of Biomarker Quantification Using NMR-Based Metabolomics with Particular Focus on Urinary Analysis. Journal of proteome research, 15(2), 360–373. [https://doi.org/10.1021/acs.jproteome.5b00885](https://doi.org/10.1021/acs.jproteome.5b00885)
@@ -204,8 +190,6 @@ permalink: /outcomes/
 1. Saccenti, E., Menichetti, G., Ghini, V., Remondini, D., Tenori, L., & Luchinat, C. (2016). Entropy-Based Network Representation of the Individual Metabolic Phenotype. Journal of proteome research, 15(9), 3298–3307. [https://doi.org/10.1021/acs.jproteome.6b00454](https://doi.org/10.1021/acs.jproteome.6b00454)
 
 1. Wallner-Liebmann, S., Tenori, L., Mazzoleni, A., Dieber-Rotheneder, M., Konrad, M., Hofmann, P., Luchinat, C., Turano, P., & Zatloukal, K. (2016). Individual Human Metabolic Phenotype Analyzed by (1)H NMR of Saliva Samples. Journal of proteome research, 15(6), 1787–1793. [https://doi.org/10.1021/acs.jproteome.5b01060](https://doi.org/10.1021/acs.jproteome.5b01060)
-
-# Year 2015
 
 1. Ghini, V., Saccenti, E., Tenori, L., Assfalg, M., & Luchinat, C. (2015). Allostasis and Resilience of the Human Individual Metabolic Phenotype. Journal of proteome research, 14(7), 2951–2962. [https://doi.org/10.1021/acs.jproteome.5b00275](https://doi.org/10.1021/acs.jproteome.5b00275)
 
@@ -225,8 +209,6 @@ permalink: /outcomes/
 
 1. Wruck, W., Kashofer, K., Rehman, S., Daskalaki, A., Berg, D., Gralka, E., Jozefczuk, J., Drews, K., Pandey, V., Regenbrecht, C., Wierling, C., Turano, P., Korf, U., Zatloukal, K., Lehrach, H., Westerhoff, H. V., & Adjaye, J. (2015). Multi-omic profiles of human non-alcoholic fatty liver disease tissue highlight heterogenic phenotypes. Scientific data, 2, 150068. [https://doi.org/10.1038/sdata.2015.68](https://doi.org/10.1038/sdata.2015.68)
 
-# Year 2014
-
 1. Bertini, I., Hu, X., & Luchinat, C. (2014). Global metabolomics characterization of bacteria: pre-analytical treatments and profiling. Metabolomics, 10, 241-249. [https://doi.org/10.1007/s11306-013-0571-4](https://doi.org/10.1007/s11306-013-0571-4)
 
 1. Bertine, I., Luchinat, C., Miniati, M., Monti, S., & Tenori, L. (2014). Phenotyping COPD by 1H NMR metabolomics of exhaled breath condensate. Metabolomics, 10, 302-311. [https://doi.org/10.1007/s11306-013-0572-3](https://doi.org/10.1007/s11306-013-0572-3)
@@ -239,11 +221,7 @@ permalink: /outcomes/
 
 1. Turano P. (2014). Colorectal cancer: the potential of metabolic fingerprinting. Expert review of gastroenterology & hepatology, 8(8), 847–849. [https://doi.org/10.1586/17474124.2014.945912](https://doi.org/10.1586/17474124.2014.945912)
 
-# Year 2013
-
 1. Tenori, L., Hu, X., Pantaleo, P., Alterini, B., Castelli, G., Olivotto, I., Bertini, I., Luchinat, C., & Gensini, G. F. (2013). Metabolomic fingerprint of heart failure in humans: a nuclear magnetic resonance spectroscopy analysis. International journal of cardiology, 168(4), e113–e115. [https://doi.org/10.1016/j.ijcard.2013.08.042](https://doi.org/10.1016/j.ijcard.2013.08.042)
-
-# Year 2012
 
 1. Aimetti, M., Cacciatore, S., Graziano, A., & Tenori, L. (2012). Metabonomic analysis of saliva reveals generalized chronic periodontitis signature. Metabolomics, 8, 465-474. [https://doi.org/10.1007/s11306-011-0331-2](https://doi.org/10.1007/s11306-011-0331-2)
 
@@ -253,8 +231,6 @@ permalink: /outcomes/
 
 1. Tenori, L., Oakman, C., Claudino, W. M., Bernini, P., Cappadona, S., Nepi, S., Biganzoli, L., Arbushites, M. C., Luchinat, C., Bertini, I., & Di Leo, A. (2012). Exploration of serum metabolomic profiles and outcomes in women with metastatic breast cancer: a pilot study. Molecular oncology, 6(4), 437–444. [https://doi.org/10.1016/j.molonc.2012.05.003](https://doi.org/10.1016/j.molonc.2012.05.003)
 
-# Year 2011
-
 1. Bernini, P., Bertini, I., Calabrò, A., la Marca, G., Lami, G., Luchinat, C., Renzi, D., & Tenori, L. (2011). Are patients with potential celiac disease really potential? The answer of metabonomics. Journal of proteome research, 10(2), 714–721. [https://doi.org/10.1021/pr100896s](https://doi.org/10.1021/pr100896s)
 
 1. Bernini, P., Bertini, I., Luchinat, C., Nincheri, P., Staderini, S., & Turano, P. (2011). Standard operating procedures for pre-analytical handling of blood and urine for metabolomic studies and biobanks. Journal of biomolecular NMR, 49(3-4), 231–243. [https://doi.org/10.1007/s10858-011-9489-1](https://doi.org/10.1007/s10858-011-9489-1)
@@ -263,12 +239,8 @@ permalink: /outcomes/
 
 1. Oakman, C., Tenori, L., Biganzoli, L., Santarpia, L., Cappadona, S., Luchinat, C., & Di Leo, A. (2011). Uncovering the metabolomic fingerprint of breast cancer. The international journal of biochemistry & cell biology, 43(7), 1010–1020. [https://doi.org/10.1016/j.biocel.2010.05.001](https://doi.org/10.1016/j.biocel.2010.05.001)
 
-# Year 2009
-
 1. Bernini, P., Bertini, I., Luchinat, C., Nepi, S., Saccenti, E., Schäfer, H., Schütz, B., Spraul, M., & Tenori, L. (2009). Individual human phenotypes in metabolic space and time. Journal of proteome research, 8(9), 4264–4271. [https://doi.org/10.1021/pr900344m](https://doi.org/10.1021/pr900344m)
 
 1. Bertini, I., Calabrò, A., De Carli, V., Luchinat, C., Nepi, S., Porfirio, B., Renzi, D., Saccenti, E., & Tenori, L. (2009). The metabonomic signature of celiac disease. Journal of proteome research, 8(1), 170–177. [https://doi.org/10.1021/pr800548z](https://doi.org/10.1021/pr800548z)
-
-# Year 2008
 
 1. Assfalg, M., Bertini, I., Colangiuli, D., Luchinat, C., Schäfer, H., Schütz, B., & Spraul, M. (2008). Evidence of different metabolic phenotypes in humans. Proceedings of the National Academy of Sciences of the United States of America, 105(5), 1420–1424. [https://doi.org/10.1073/pnas.0705685105](https://doi.org/10.1073/pnas.0705685105)
