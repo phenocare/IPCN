@@ -1,12 +1,11 @@
 ---
 title: Bruker's Molecular Phenomics Research Tools Enable New Insights into Long COVID and its Post-Infection Disease Effects
-description: Clinical research collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University develops platform for Post-Acute COVID-19 Syndrome (PACS), colloquially known as long COVID.
 background: assets/img/bug.png
 author: [Julien]
 categories: [Covid-19, Bruker, ANPC]
 ---
 
-<h4>Clinical Research Collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University Develops Platform for Monitoring and Personalizing The Management of Post-Accute COVID-19 Syndrome (PACS), Colloquically Known as Long COVID.</h4>
+<h5>Clinical Research Collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University Develops Platform for Monitoring and Personalizing The Management of Post-Accute COVID-19 Syndrome (PACS), Colloquically Known as Long COVID.</h5>
 \*For Research Use Only - not for Use in Clinical Diagnostics
 
 PERTH, Western Australia - May 17th, 2021: A long-term scientific co-creation partnership between the Australian National Phenome Centre (ANPC) at Murdoch University and Bruker Corporation (Nasdaq:BRKR) that for one year now focuses on the combat of the COVID-19 pandemic threat has uncovered a persistent systematic changes of molecular signature in COVID-19 patient blood samples 3 months after the acute disease phase(1). These biochemical abnormalities, identified by nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS), relate to ongoing symptoms post infection. These symptoms affect more than half of patients six months on and include chronic fatigue, muscle and joint pain, loss of sense of smell(4).
@@ -37,11 +36,11 @@ Dr. Óscar Millet, Principal Investigator at CIC bioGUNE in Bilbao, Spain, comme
 
 The studies were conducted using Avance™ IVDr NMR spectrometers integrated in the ANPC class II biosecurity laboratory, together with Bruker and CIC bioGUNE in-vitro diagnostics NMR research (IVDr) technology methods. The ANPC has also equipped its molecular phenomics lab with state-of-the-art mass spectrometers, including Bruker impact II and timsTOF™ Pro QTOF-MS, and a solariX™ MRMS.
 
-<strong>About the Australian National Phenome Centre</strong>
+<strong><br />About the Australian National Phenome Centre<br /></strong>
 The Australian National Phenome Centre (ANPC), at Murdoch University, will help transform how long and how well people live, not just in Australia, but around the world. The work of the ANPC supports almost every area of bioscience. It reaches across traditional research silos and fosters a new, more collaborative approach to science. Long-term, the ANPC hopes to build 'global atlases' of human disease, providing insights into future health risks which everyone on the planet can benefit from. The only facility of its kind in the southern hemisphere, the ANPC brings together other western Australian universities and leading health and medical research institutes. It is linked to the International Phenome Centre Network and also has wide research activities in agriculture and environmental science. The ANPC helps to position Perth and Western Australia as a major leader in precision medicine, and enables quantum leaps in predicting, diagnosing and managing human disease. It is part of the Health Futures Institute at Murdoch University.
 
 For more information about the ANPC COVID-19 research, please visit the [corresponding web site](https://www.murdoch.edu.au/research/anpc).
 
-<strong><br />About CIC bioGUNE</strong>
+<strong><br />About CIC bioGUNE</br></strong>
 The bioGUNE Research Center, based in the Bizkaia Science and Technology Park, is a biomedical research organization that develops cutting-edge research on the interface between structural, molecular and cellular biology, with special attention to the study of the molecular bases of disease, to be used in the development of new diagnostic methods and advanced therapies. CIC bioGUNE is recognized as a "Severo Ochoa Center of Excellence", the highest recognition of centers of excellence in Spain. CIC bioGUNE is equipped with state-of-the-art facilities for metabolomic analyses, including two IVDr NMR spectrometers and an Impact II mass spectrometer. CIC bioGUNE is leading an ambitious project in precision medicine (Akribea) to develop improved personalized diagnostic methods. Akribea project will target a segment of the population in the Basque Country (10.000 subjects) during several years to create a sample/data repository and the accessory biobanking and data mining capacities.
 the Australian National Phenome Centre
