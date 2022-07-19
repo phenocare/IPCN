@@ -18,7 +18,7 @@ description: Template for team page
     <ul class="list-inline">
       {% if member.researchgate %}
       <li class="list-inline-item">
-        <a href="https://www.researchgate.net/profile/{{ member.researchgate }}"
+        <a href="https://www.researchgate.net/{{ member.researchgate }}"
           ><img
             class="researchgate"
             src="{{ '/assets/theme/img/researchgate.png' | relative_url }}"
