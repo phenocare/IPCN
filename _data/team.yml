@@ -23,6 +23,7 @@
   description: > # Can be Markdown
     Philipp Nitschke is the NMR Coordinator of the Australian National Phenome Centre (ANPC) supervising 11 NMR systems ranging from 80 to 800 MHz. 
     His main interest is NMR method development for the analysis of biofluids.
+  researchgate: Philipp-Nitschke
   orcid: 0000-0002-5814-7529
   email: philipp.nitschke@murdoch.edu.au
   # github: github_name
@@ -43,6 +44,7 @@
     In 2021, T. Madl was appointed Full Professor in Integrative Structural Biology and Metabolomics at Medical University of Graz. 
     At the Integrative Metabolism Research Center, Dr. Madl and his team have established untargeted NMR-based metabolomics for a plethora of biological systems ranging from cell-based assays to in vivo model systems and patients. 
     This allows him to bridge the gap between molecular details of metabolic pathways and patient and vice versa and to obtain new insights into disease mechanisms and diagnosis.
+  researchgate: Tobias-Madl-2
   orcid: 0000-0002-9725-5231
   email: tobias.madl@medunigraz.at
   # github: github_name
@@ -59,6 +61,7 @@
     Dr. Tenori's research interest is focused on the use of NMR spectroscopy to identify metabolites that vary in response to physio-pathological states. 
     This mainly translates into identifying biomarkers (or panels of markers, or metabolic fingerprints) that can be used for diagnosis, prognosis, patient stratification, response to treatments, or to investigate the molecular mechanisms underlying the onset of diseases. 
     In 2015 he was awarded with a Fellowship of the Italian Foundation “Veronesi” for the study of the metabolomic alterations in melanoma patients. He has collaboration with researchers and clinicians at local, national and international level.
+  researchgate: Leonardo-Tenori
   orcid: 0000-0001-6438-059X
   email: tenori@cerm.unifi.it
   # github: github_name
@@ -77,6 +80,7 @@
     The results of this research, published in international journals, have been cited several times not only in specialized literature but also in other sectors, in books, websites and also in non-specialist press. 
     Claudio Luchinat has become one of the international reference points for metabolomics, and is invited to give plenary lectures on the topic at conferences both specialized and in other sectors. 
     He is invited as a keynote speaker from research laboratories in various countries around the world, and invited to inaugurate new research centers and research infrastructures.
+  researchgate: Claudio-Luchinat-Lab
   orcid: 0000-0003-2271-8921
   email: luchinat@cerm.unifi.it
   # github: github_name
@@ -87,6 +91,7 @@
   image: assets/img/bug.png # Can be external link
   description: > # Can be Markdown
     University Hospital Tübingen, Laboratory for Metabolomics & Systems Medicine, Germany
+  researchgate: Christoph-Trautwein
   orcid: 0000-0003-4672-6395
   email: christoph.trautwein@med.uni-tuebingen.de
   # github: github_name
