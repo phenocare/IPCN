@@ -1,31 +1,31 @@
 # SITE SETTINGS
-title: An IPCN task force                        # Title in top navigation bar (navbar) and <head>
+title: An IPCN task force # Title in top navigation bar (navbar) and <head>
 description: NMR* International COVID-19 Research Network # Site description in <head>
-author: jwist@ANPC                    # Used for copyright statement in footer
+author: jwist@ANPC # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
-                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
+# which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+# A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: julien.wist@murdoch.edu.au           # Social icon in footer
-twitter_username: ANPC_MU           # Social icon in footer
-github_username: jwist            # Social icon in footer
+email: julien.wist@murdoch.edu.au # Social icon in footer
+twitter_username: ANPC_MU # Social icon in footer
+github_username: jwist # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
-archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/img/petri-dish_1f9eb.png  # Logo in navbar, will be displayed with 30px height
+posts_on_home: 3 # Show x number of latest posts on homepage, can be 0
+tweets_on_home: true # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/ # Permalink of page using archive.html layout, required when using post categories
+logo: /assets/img/bugd.png # Logo in navbar, will be displayed with 30px height
 colors:
-  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
-rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+  links: "#007bff" # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff" # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d" # Background color for footer: use color that contrasts well with white
+rounded_corners: true # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS
 markdown: kramdown
-plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+plugins: # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
   - jekyll-feed
   - jekyll-sitemap
 exclude:
@@ -40,14 +40,12 @@ exclude:
 
 # FRONTMATTER DEFAULTS
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
-      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
+      permalink: "/blog/:year/:slug/" # Use /blog/yyyy/{filename}/ as permalink for all posts
+  - scope:
       path: ""
     values:
-      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
+      layout: "default" # Only required for Petridish website, implied for sites using a theme

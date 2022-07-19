@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The NMR* International COVID-19 Research Network at Work
+title: The International COVID-19 Research Network at Work
 description: A network to beat COVID-19
 background: /assets/img/K2A5183.JPG
 permalink: /
