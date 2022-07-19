@@ -41,7 +41,7 @@ permalink: /outcomes/
 
 1. Zizmare, L., Boyle, C. N., Buss, S., Louis, S., Kuebler, L., Mulay, K., Krüger, R., Steinhauer, L., Mack, I., Gomez, M. R., Herfert, K., Ritze, Y., & Trautwein, C. (2022). Roux-En-Y Gastric Bypass (RYGB) Surgery during High Liquid Sucrose Diet Leads to Gut Microbiota-Related Systematic Alterations. International Journal of Molecular Sciences, 23(3), 1126. [https://doi.org/10.3390/ijms23031126](https://doi.org/10.3390/ijms23031126)
 
-# Year 2021
+<Year 2021>
 
 1. Ashrafian, H., Sounderajah, V., Glen, R., Ebbels, T., Blaise, B. J., Kalra, D., Kultima, K., Spjuth, O., Tenori, L., Salek, R. M., Kale, N., Haug, K., Schober, D., Rocca-Serra, P., O'Donovan, C., Steinbeck, C., Cano, I., de Atauri, P., & Cascante, M. (2021). Metabolomics: The Stethoscope for the Twenty-First Century. Medical principles and practice : international journal of the Kuwait University, Health Science Centre, 30(4), 301–310. [https://doi.org/10.1159/000513545](https://doi.org/10.1159/000513545)
 
