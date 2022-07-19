@@ -17,7 +17,7 @@
   # github: github_name
   # twitter: twitter_name
 
-  - name: Claudio Luchinat
+- name: Claudio Luchinat
   role: Member
   image: assets/img/bug.png # Can be external link
   description: > # Can be Markdown
@@ -36,7 +36,7 @@
   # github: github_name
   # twitter: twitter_name
 
-  - name: Dr. Christoph Trautwein
+- name: Dr. Christoph Trautwein
   role: Member
   image: assets/img/bug.png # Can be external link
   description: > # Can be Markdown
@@ -47,7 +47,7 @@
   # github: github_name
   # twitter: twitter_name
 
-  - name: Leonardo Tenori
+- name: Leonardo Tenori
   role: Member
   image: assets/img/bug.png # Can be external link
   description: > # Can be Markdown
@@ -64,7 +64,7 @@
   # github: github_name
   # twitter: twitter_name
 
-  - name: Paulo Turano
+- name: Paulo Turano
   role: Member
   image: assets/img/bug.png # Can be external link
   description: > # Can be Markdown
