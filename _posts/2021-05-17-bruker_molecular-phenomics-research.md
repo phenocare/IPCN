@@ -42,6 +42,6 @@ The Australian National Phenome Centre (ANPC), at Murdoch University, will help 
 
 For more information about the ANPC COVID-19 research, please visit the [corresponding web site](https://www.murdoch.edu.au/research/anpc).
 
-<h5><br />About CIC bioGUNE</h3>
+<h5><br />About CIC bioGUNE</h5>
 The bioGUNE Research Center, based in the Bizkaia Science and Technology Park, is a biomedical research organization that develops cutting-edge research on the interface between structural, molecular and cellular biology, with special attention to the study of the molecular bases of disease, to be used in the development of new diagnostic methods and advanced therapies. CIC bioGUNE is recognized as a "Severo Ochoa Center of Excellence", the highest recognition of centers of excellence in Spain. CIC bioGUNE is equipped with state-of-the-art facilities for metabolomic analyses, including two IVDr NMR spectrometers and an Impact II mass spectrometer. CIC bioGUNE is leading an ambitious project in precision medicine (Akribea) to develop improved personalized diagnostic methods. Akribea project will target a segment of the population in the Basque Country (10.000 subjects) during several years to create a sample/data repository and the accessory biobanking and data mining capacities.
 the Australian National Phenome Centre
