@@ -6,7 +6,8 @@ author: [Julien]
 categories: [Covid-19, Bruker, ANPC]
 ---
 
-<strong>Clinical Research Collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University Develops Platform for Monitoring and Personalizing The Management of Post-Accute COVID-19 Syndrome (PACS), Colloquically Known as Long COVID</strong>
+<strong>Clinical Research Collaboration of Bruker and the Australian National Phenome Centre (ANPC) at Murdoch University Develops Platform for Monitoring and Personalizing The Management of Post-Accute COVID-19 Syndrome (PACS), Colloquically Known as Long COVID.</strong>
+
 \*For Research Use Only - not for Use in Clinical Diagnostics
 
 PERTH, Western Australia - May 17th, 2021: A long-term scientific co-creation partnership between the Australian National Phenome Centre (ANPC) at Murdoch University and Bruker Corporation (Nasdaq:BRKR) that for one year now focuses on the combat of the COVID-19 pandemic threat has uncovered a persistent systematic changes of molecular signature in COVID-19 patient blood samples 3 months after the acute disease phase(1). These biochemical abnormalities, identified by nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS), relate to ongoing symptoms post infection. These symptoms affect more than half of patients six months on and include chronic fatigue, muscle and joint pain, loss of sense of smell(4).
