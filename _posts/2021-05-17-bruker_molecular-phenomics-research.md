@@ -46,12 +46,12 @@ For more information about the ANPC COVID-19 research, please visit the [corresp
 The bioGUNE Research Center, based in the Bizkaia Science and Technology Park, is a biomedical research organization that develops cutting-edge research on the interface between structural, molecular and cellular biology, with special attention to the study of the molecular bases of disease, to be used in the development of new diagnostic methods and advanced therapies. CIC bioGUNE is recognized as a "Severo Ochoa Center of Excellence", the highest recognition of centers of excellence in Spain. CIC bioGUNE is equipped with state-of-the-art facilities for metabolomic analyses, including two IVDr NMR spectrometers and an Impact II mass spectrometer. CIC bioGUNE is leading an ambitious project in precision medicine (Akribea) to develop improved personalized diagnostic methods. Akribea project will target a segment of the population in the Basque Country (10.000 subjects) during several years to create a sample/data repository and the accessory biobanking and data mining capacities.
 the Australian National Phenome Centre
 
-<strong><br />About Bruker Corporation<br /></strong>
+<strong><br />About Bruker Corporation (Nasdaq: BRKR)<br /></strong>
 Bruker is enabling scientists to make breakthrough discoveries and develop new applications that improve the quality of human life. Bruker's high performance scientific instruments and high value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular and microscopic levels. In close cooperation with our customers, Bruker is enabling innovation, improved productivity and customer success in life science molecular and cell biology research, in applied and pharma applications, in microscopy and nanoanalysis, as well as in industrial applications. Bruker offers differentiated, high-value life science and diagnostics systems and solutions in preclinical imaging, clinical phenomics research, proteomics and multiomics, spatial and single-cell biology, functional structural and condensate biology, as well as in clinical microbiology and molecular diagnostics.
 
 For more information, please visit: [https://www.bruker.com](https://www.bruker.com).
 
-<strong><br />References<br />
+<strong><br />References</strong>
 
 1. Kimhofer, T., Lodge, S., Whiley, L., Gray, N., Loo, R. L., Lawler, N. G., Nitschke, P., Bong, S. H., Morrison, D. L., Begum, S., Richards, T., Yeap, B. B., Smith, C., Smith, K., Holmes, E., & Nicholson, J. K. (2020). Integrative Modeling of Quantitative Plasma Lipoprotein, Metabolic, and Amino Acid Data Reveals a Multiorgan Pathological Signature of SARS-CoV-2 Infection. Journal of Proteome Research, 19(11), 4442–4454. [https://doi.org/10.1021/acs.jproteome.0c00519](https://doi.org/10.1021/acs.jproteome.0c00519)
 
