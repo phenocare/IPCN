@@ -5,13 +5,19 @@ background: assets/img/K2A5183.JPG
 permalink: /outcomes/
 ---
 
+<h4>Commercial Products</h4>
+
+PhenoRisk PACS RuO [read more](https://phenocare.github.io/IPCN/blog/2022/bruker-new-nmr-test/)
+
+<h4>Publications</h4>
+
 # Year 2022
 
-Bernacchioni, C., Squecco, R., Gamberi, T., Ghini, V., Schumacher, F., Mannelli, M., Garella, R., Idrizaj, E., Cencetti, F., Puliti, E., Bruni, P., Turano, P., Fiaschi, T., & Donati, C. (2022). S1P Signalling Axis Is Necessary for Adiponectin-Directed Regulation of Electrophysiological Properties and Oxidative Metabolism in C2C12 Myotubes. Cells, 11(4), 713. [https://doi.org/10.3390/cells11040713](https://doi.org/10.3390/cells11040713)
+1. Bernacchioni, C., Squecco, R., Gamberi, T., Ghini, V., Schumacher, F., Mannelli, M., Garella, R., Idrizaj, E., Cencetti, F., Puliti, E., Bruni, P., Turano, P., Fiaschi, T., & Donati, C. (2022). S1P Signalling Axis Is Necessary for Adiponectin-Directed Regulation of Electrophysiological Properties and Oxidative Metabolism in C2C12 Myotubes. Cells, 11(4), 713. [https://doi.org/10.3390/cells11040713](https://doi.org/10.3390/cells11040713)
 
-Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
+#. Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
 
-Castagneto-Gissey, L., Angelini, G., Mingrone, G., Cavarretta, E., Tenori, L., Licari, C., Luchinat, C., Tiepner, A. L., Basso, N., Bornstein, S. R., Bhatt, D. L., & Casella, G. (2022). The early reduction of left ventricular mass after sleeve gastrectomy depends on the fall of branched-chain amino acid circulating levels. EBioMedicine, 76, 103864. [https://doi.org/10.1016/j.ebiom.2022.103864](https://doi.org/10.1016/j.ebiom.2022.103864)
+#. Castagneto-Gissey, L., Angelini, G., Mingrone, G., Cavarretta, E., Tenori, L., Licari, C., Luchinat, C., Tiepner, A. L., Basso, N., Bornstein, S. R., Bhatt, D. L., & Casella, G. (2022). The early reduction of left ventricular mass after sleeve gastrectomy depends on the fall of branched-chain amino acid circulating levels. EBioMedicine, 76, 103864. [https://doi.org/10.1016/j.ebiom.2022.103864](https://doi.org/10.1016/j.ebiom.2022.103864)
 
 Di Cesare, F., Tenori, L., Meoni, G., Gori, A. M., Marcucci, R., Giusti, B., Molino-Lova, R., Macchi, C., Pancani, S., Luchinat, C., & Saccenti, E. (2022). Lipid and metabolite correlation networks specific to clinical and biochemical covariate show differences associated with sexual dimorphism in a cohort of nonagenarians. GeroScience, 44(2), 1109–1128. [https://doi.org/10.1007/s11357-021-00404-3](https://doi.org/10.1007/s11357-021-00404-3)
 
