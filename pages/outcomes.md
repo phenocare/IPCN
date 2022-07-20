@@ -13,8 +13,6 @@ permalink: /outcomes/
 
 1. Bernacchioni, C., Squecco, R., Gamberi, T., Ghini, V., Schumacher, F., Mannelli, M., Garella, R., Idrizaj, E., Cencetti, F., Puliti, E., Bruni, P., Turano, P., Fiaschi, T., & Donati, C. (2022). S1P Signalling Axis Is Necessary for Adiponectin-Directed Regulation of Electrophysiological Properties and Oxidative Metabolism in C2C12 Myotubes. Cells, 11(4), 713. [https://doi.org/10.3390/cells11040713](https://doi.org/10.3390/cells11040713)
 
-   ![Phenomics.png](https://github.com/phenocare/IPCN/blob/master/assets/img/Phenomics.png?raw=true)
-
 1. Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
 
    ![JournalofProteomeResearch.png](https://github.com/phenocare/IPCN/blob/master/assets/img/ProteomeResearch.png?raw=true)
@@ -72,6 +70,10 @@ permalink: /outcomes/
 1. Meoni, G., Luchinat, C., Gotti, E., Cadena, A., & Tenori, L. (2021). Phenotyping Green and Roasted Beans of Nicaraguan Coffea Arabica Varieties Processed with Different Post-Harvest Practices. Applied Sciences, 11(24), 11779. [https://doi.org/10.3390/app112411779](https://doi.org/10.3390/app112411779)
 
 1. Nannini, G., Meoni, G., Tenori, L., Ringressi, M. N., Taddei, A., Niccolai, E., Baldi, S., Russo, E., Luchinat, C., & Amedei, A. (2021). Fecal metabolomic profiles: A comparative study of patients with colorectal cancer vs adenomatous polyps. World journal of gastroenterology, 27(38), 6430–6441. [https://doi.org/10.3748/wjg.v27.i38.6430](https://doi.org/10.3748/wjg.v27.i38.6430)
+
+1. Nicholson J. K. (2021). Molecular Phenomic Approaches to Deconvolving the Systemic Effects of SARS-CoV-2 Infection and Post-acute COVID-19 Syndrome. Phenomics, 1(4), 143–150. [https://doi.org/10.1007/s43657-021-00020-3](https://doi.org/10.1007/s43657-021-00020-3)
+
+   <img src="https://github.com/phenocare/IPCN/blob/master/assets/img/Phenomics.png?raw=true" style="width:50%; height:50%/>
 
 1. Pirazzini, C., Azevedo, T., Baldelli, L., Bartoletti-Stella, A., Calandra-Buonaura, G., Dal Molin, A., Dimitri, G. M., Doykov, I., Gómez-Garre, P., Hägg, S., Hällqvist, J., Halsband, C., Heywood, W., Jesús, S., Jylhävä, J., Kwiatkowska, K. M., Labrador-Espinosa, M. A., Licari, C., Maturo, M. G., Mengozzi, G., Meoni, G., Milazzo, M., Periñán-Tocino, M. T., Ravaioli, F., Sala, C., Sambati, L., Schade, S., Schreglmann, S., Spasov, S., Tenori, L., Williams, D., Xumerle, L., Zago, E., Bhatia, K. P., Capellari, S., Cortelli, P., Garagnani, P., Houlden, H., Liò, P., Luchinat, C., Delledonne, M., Mills, K., Mir, P., Mollenhauer, B., Nardini, C., Pedersen, N. L., Provini, F., Strom, S., Trenkwalder, C., Turano, P., Bacalini, M. G., Franceschi, C., & PROPAG-AGEING Consortium (2021). A geroscience approach for Parkinson's disease: Conceptual framework and design of PROPAG-AGEING project. Mechanisms of ageing and development, 194, 111426. [https://doi.org/10.1016/j.mad.2020.111426](https://doi.org/10.1016/j.mad.2020.111426)
 
