@@ -73,7 +73,7 @@ permalink: /outcomes/
 
 1. Nicholson J. K. (2021). Molecular Phenomic Approaches to Deconvolving the Systemic Effects of SARS-CoV-2 Infection and Post-acute COVID-19 Syndrome. Phenomics, 1(4), 143–150. [https://doi.org/10.1007/s43657-021-00020-3](https://doi.org/10.1007/s43657-021-00020-3)
 
-   <img src="https://github.com/phenocare/IPCN/blob/master/assets/img/Phenomics.png?raw=true" style="width:50%; height:50%/>
+   <img src="https://github.com/phenocare/IPCN/blob/master/assets/img/Phenomics.png?raw=true" style="width:50%; height:50%" />
 
 1. Pirazzini, C., Azevedo, T., Baldelli, L., Bartoletti-Stella, A., Calandra-Buonaura, G., Dal Molin, A., Dimitri, G. M., Doykov, I., Gómez-Garre, P., Hägg, S., Hällqvist, J., Halsband, C., Heywood, W., Jesús, S., Jylhävä, J., Kwiatkowska, K. M., Labrador-Espinosa, M. A., Licari, C., Maturo, M. G., Mengozzi, G., Meoni, G., Milazzo, M., Periñán-Tocino, M. T., Ravaioli, F., Sala, C., Sambati, L., Schade, S., Schreglmann, S., Spasov, S., Tenori, L., Williams, D., Xumerle, L., Zago, E., Bhatia, K. P., Capellari, S., Cortelli, P., Garagnani, P., Houlden, H., Liò, P., Luchinat, C., Delledonne, M., Mills, K., Mir, P., Mollenhauer, B., Nardini, C., Pedersen, N. L., Provini, F., Strom, S., Trenkwalder, C., Turano, P., Bacalini, M. G., Franceschi, C., & PROPAG-AGEING Consortium (2021). A geroscience approach for Parkinson's disease: Conceptual framework and design of PROPAG-AGEING project. Mechanisms of ageing and development, 194, 111426. [https://doi.org/10.1016/j.mad.2020.111426](https://doi.org/10.1016/j.mad.2020.111426)
 
