@@ -6,6 +6,9 @@ author: [Julien]
 categories: [NMR, Covid-19, Bruker]
 ---
 
+![ANPC Molecular Phenomics NMR Lab](https://github.com/phenocare/IPCN/blob/master/assets/img/bruker-NMR.png?raw=true)
+ANPC Molecular Phenomics NMR Lab. (Credit: Bruker)
+
 Bruker Corporation has rolled out its new research-use-only NMR test, PhenoRisk PACS RuO, intended for molecular phenomics research on blood samples of Long Covid patients.
 
 The device leverages a mix of multiplexed biomarkers discovered at Murdoch University, under the leadership of Australian National Phenome Centre (ANPC) director Jeremy Nicholson.
