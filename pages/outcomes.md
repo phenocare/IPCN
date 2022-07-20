@@ -13,7 +13,7 @@ permalink: /outcomes/
 
 1. Bernacchioni, C., Squecco, R., Gamberi, T., Ghini, V., Schumacher, F., Mannelli, M., Garella, R., Idrizaj, E., Cencetti, F., Puliti, E., Bruni, P., Turano, P., Fiaschi, T., & Donati, C. (2022). S1P Signalling Axis Is Necessary for Adiponectin-Directed Regulation of Electrophysiological Properties and Oxidative Metabolism in C2C12 Myotubes. Cells, 11(4), 713. [https://doi.org/10.3390/cells11040713](https://doi.org/10.3390/cells11040713)
 
-   <img src = "{{ '/assets/theme/img/researchgate.png' | relative_url }}" />
+   ![Phenomics.png](https://github.com/phenocare/IPCN/tree/master/assets/img/Phenomics.png)
 
 1. Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
 
