@@ -15,8 +15,6 @@ permalink: /outcomes/
 
 1. Bobbo, T., Meoni, G., Niero, G., Tenori, L., Luchinat, C., Cassandro, M., & Penasa, M. (2022). Nuclear magnetic resonance spectroscopy to investigate the association between milk metabolites and udder quarter health status in dairy cows. Journal of dairy science, 105(1), 535–548. [https://doi.org/10.3168/jds.2021-20906](https://doi.org/10.3168/jds.2021-20906)
 
-   ![JournalofProteomeResearch.png](https://github.com/phenocare/IPCN/blob/master/assets/img/ProteomeResearch.png?raw=true)
-
 1. Castagneto-Gissey, L., Angelini, G., Mingrone, G., Cavarretta, E., Tenori, L., Licari, C., Luchinat, C., Tiepner, A. L., Basso, N., Bornstein, S. R., Bhatt, D. L., & Casella, G. (2022). The early reduction of left ventricular mass after sleeve gastrectomy depends on the fall of branched-chain amino acid circulating levels. EBioMedicine, 76, 103864. [https://doi.org/10.1016/j.ebiom.2022.103864](https://doi.org/10.1016/j.ebiom.2022.103864)
 
 1. Di Cesare, F., Tenori, L., Meoni, G., Gori, A. M., Marcucci, R., Giusti, B., Molino-Lova, R., Macchi, C., Pancani, S., Luchinat, C., & Saccenti, E. (2022). Lipid and metabolite correlation networks specific to clinical and biochemical covariate show differences associated with sexual dimorphism in a cohort of nonagenarians. GeroScience, 44(2), 1109–1128. [https://doi.org/10.1007/s11357-021-00404-3](https://doi.org/10.1007/s11357-021-00404-3)
@@ -58,6 +56,8 @@ permalink: /outcomes/
 1. Gray, N., Lawler, N. G., Zeng, A. X., Ryan, M., Bong, S. H., Boughton, B. A., Bizkarguenaga, M., Bruzzone, C., Embade, N., Wist, J., Holmes, E., Millet, O., Nicholson, J. K., & Whiley, L. (2021). Diagnostic Potential of the Plasma Lipidome in Infectious Disease: Application to Acute SARS-CoV-2 Infection. Metabolites, 11(7), 467. [https://doi.org/10.3390/metabo11070467](https://doi.org/10.3390/metabo11070467)
 
 1. Holmes, E., Wist, J., Masuda, R., Lodge, S., Nitschke, P., Kimhofer, T., Loo, R. L., Begum, S., Boughton, B., Yang, R., Morillon, A.-C., Chin, S.-T., Hall, D., Ryan, M., Bong, S. H., Gay, M., Edgar, D. W., Lindon, J. C., Richards, T., Yeap, B. B., Pettersson, S., Spraul, M., Schaefer, H., Lawler, N. G., Gray, N., Whiley, L., & Nicholson, J. K. (2021). Incomplete Systemic Recovery and Metabolic Phenoreversion in Post-Acute-Phase Nonhospitalized COVID-19 Patients: Implications for Assessment of Post-Acute COVID-19 Syndrome. Journal of Proteome Research, 20(6), 3315–3329. [https://doi.org/10.1021/acs.jproteome.1c00224](https://doi.org/10.1021/acs.jproteome.1c00224)
+
+   <img src="https://github.com/phenocare/IPCN/blob/master/assets/img/ProteomeResearch.png?raw=true" style="width:50%; height: 50%" />
 
 1. Licari, C., Tenori, L., Giusti, B., Sticchi, E., Kura, A., De Cario, R., Inzitari, D., Piccardi, B., Nesi, M., Sarti, C., Arba, F., Palumbo, V., Nencini, P., Marcucci, R., Gori, A. M., Luchinat, C., & Saccenti, E. (2021). Analysis of Metabolite and Lipid Association Networks Reveals Molecular Mechanisms Associated with 3-Month Mortality and Poor Functional Outcomes in Patients with Acute Ischemic Stroke after Thrombolytic Treatment with Recombinant Tissue Plasminogen Activator. Journal of proteome research, 20(10), 4758–4770. [https://doi.org/10.1021/acs.jproteome.1c00406](https://doi.org/10.1021/acs.jproteome.1c00406)
 
