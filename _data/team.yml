@@ -17,6 +17,16 @@
   # github: github_name
   # twitter: twitter_name
 
+  - name: Manfred Spraul
+  role: Member
+  image: assets/img/manfred_spraul.png # Can be external link
+  description: > # Can be Markdown
+    I have worked as NMR application manager, then changed to management of business developement for Applied NMR solutions and then as CTO for Bruker BIoSpin. DUring this time I guided the applied NMR development team. From October 1 2022 I run a consultancy  for NMR based Metabolomics, including support for Bruker.
+  orcid: 0000-0001-6799-0043
+  email: manfred.spraul@sconmet.de
+  # github: github_name
+  # twitter: twitter_name
+
 - name: Christoph Trautwein
   role: Member
   image: assets/img/ChristophTrautwein.png # Can be external link
