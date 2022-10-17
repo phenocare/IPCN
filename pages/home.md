@@ -11,3 +11,9 @@ The ongoing COVID-19 pandemics calls for a broad and coordinated response from t
 A worldwide international COVID Research Network consisting of several institutions has been setup in April 2020. It was initiated by Prof. Jeremy Nicholson who is currently the director of the Australian National Phenome Center (ANPC) and has received the welcome support from industry leader Bruker A.G.
 
 This network aims at harnessing the power of standardized analytical procedures to build a fully exchangeable and integratable data bank across its collaborators. This is a first step in building an atlas of diseases metabolic maps.
+
+Partner Institutions:
+
+ - [Australian National Phenome Centre, Perth, Australia](https://australian-npc.org/)
+ - [CIC BioGUNE, Bilbao, Spain](https://www.cicbiogune.es/people/omillet)
+ - [Bruker AG, Rheinstetten, Germany](https://www.bruker.com/en/products-and-solutions/mr/make-mr-more-relevant/covid19-nmr-international-research-network-at-work.html)
