@@ -17,3 +17,5 @@ Partner Institutions:
  - [Australian National Phenome Centre, Perth, Australia](https://australian-npc.org/)
  - [CIC BioGUNE, Bilbao, Spain](https://www.cicbiogune.es/people/omillet)
  - [Bruker AG, Rheinstetten, Germany](https://www.bruker.com/en/products-and-solutions/mr/make-mr-more-relevant/covid19-nmr-international-research-network-at-work.html)
+
+Interested to join the network? Please contact us [here](mailto:julien.wist_at_murdoch.edu.au)
