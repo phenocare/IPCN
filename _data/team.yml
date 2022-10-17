@@ -38,6 +38,15 @@
   # github: github_name
   # twitter: twitter_name
 
+- name: Claire Cannet
+  role: Member
+  image: assets/img/claire_cannet.jpeg # Can be external link
+  description: > # Can be Markdown
+    Market Manager for Clinical RTD
+  email: claire.cannet@bruker.com
+  # github: github_name
+  # twitter: twitter_name
+
 - name: Claudio Luchinat
   role: Member
   image: assets/img/ClaudioLuchinat.png # Can be external link
