@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The International COVID-19 Research Network at Work
+title: IPCN: COVID-19 task force at Work
 description: A network to beat COVID-19
 background: /assets/img/K2A5183.JPG
 permalink: /
