@@ -1,6 +1,6 @@
 ---
 layout: home
-title: IPCN: COVID-19 task force at Work
+title: IPCN - COVID-19 Task Force at Work
 description: A network to beat COVID-19
 background: /assets/img/K2A5183.JPG
 permalink: /
