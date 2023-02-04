@@ -264,4 +264,9 @@ permalink: /outcomes/
 
 <!-- Year 2008 -->
    <!-- Assfalg, M., Bertini, I., Colangiuli, D., Luchinat, C., Schäfer, H., Schütz, B., & Spraul, M. (2008). Evidence of different metabolic phenotypes in humans. Proceedings of the National Academy of Sciences of the United States of America, 105(5), 1420–1424. <a href="https://doi.org/10.1073/pnas.0705685105">https://doi.org/10.1073/pnas.0705685105</a></li> -->
+
+   <li>Rössler, T. et al. Quantitative Serum NMR Spectroscopy Stratifies COVID-19 Patients and Sheds Light on Interfaces of Host Metabolism and the Immune Response with Cytokines and Clinical Parameters. Metabolites 12, (2022) <a href="https://doi.org/10.3390/metabo12121277">https://doi.org/10.3390/metabo12121277</a></li>
+
+   <li>Ruffieux, H., Hanson, A.L., Lodge, S. et al. A patient-centric modeling framework captures recovery from SARS-CoV-2 infection. Nat Immunol 24, 349–358 (2023) <a href="https://doi.org/10.1038/s41590-022-01380-2">https://doi.org/10.1038/s41590-022-01380-2</a></li>
+
 </ol>
